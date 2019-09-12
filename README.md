@@ -3,7 +3,7 @@ My GitHub.io Page.  I want to build this out to be a hub: a place to go where yo
 and my other websites.
 
 ## Currently Linked Live Projects
-* None Yet
+* [Shield Bearer](https://bluzix.github.io/Shield-Bearer/)
 
 ## Currently Linked Websites
 * [My Developer Blog](https://bluzixbytes.blogspot.com/)
