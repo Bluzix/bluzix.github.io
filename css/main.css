@@ -1,0 +1,30 @@
+/* Add Margin with very wide Screens */
+@media screen and (min-width: 1100px) {
+  div.mainContent {
+    margin-left: 8rem;
+    margin-right: 8rem;
+  }
+}
+
+/* Make the Height the full height of the browser */
+html, body {
+  margin-top: 0;
+  margin-bottom: 0;
+  height: 100%;
+  /* Background image from https://www.pexels.com/photo/earth-space-cosmos-5439/ */
+  background-image: url("../img/background.jpg");
+  background-color: #346c9d;
+}
+
+/* Div holding the main content on the page */
+div.mainContent {
+  height: 100%;
+  padding: 1rem;
+  background-color: gray;
+}
+
+/* The top header inside div.mainContent */
+div.mainContent h1 {
+  margin-top: 0;
+  text-align: center;
+}
